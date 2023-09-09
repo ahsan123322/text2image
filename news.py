@@ -14,7 +14,7 @@ def query(payload):
 
 # Streamlit app
 def main():
-    st.title("Image Generator")
+    st.title("Surprise for hamid Image Generator")
 
     # User input for the image description
     image_description = st.text_input("Enter an image description:")
